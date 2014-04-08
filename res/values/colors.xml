@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="main_background">#ff000000</color>
+    
+    <color name="cell_background">#ff2f2f2f</color>
+    <color name="grid_major_dark">#cc0f0f0f</color>
+    <color name="grid_major_light">#fff0f0f0</color>
+    <color name="grid_minor_dark">#ff0f0f0f</color>
+    <color name="grid_minor_light">#ff909090</color>
+    <color name="number_fixed">#fff0f0f0</color>
+    <color name="number">#ff33ccff</color>
+    <color name="cell_selected">#2f99cc00</color>
+    <color name="cell_dragging">#64ff8000</color>
+    
+</resources>

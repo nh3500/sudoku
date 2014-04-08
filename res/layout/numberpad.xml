@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TableLayout 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/numberpad"
+    android:orientation="vertical"
+    android:stretchColumns="*"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content" >
+
+    <TableRow >
+        <Button 
+            android:id="@+id/numberpad_1"
+            style="@style/CustomButton"
+            android:text="1" />
+        <Button 
+            android:id="@+id/numberpad_2"
+            style="@style/CustomButton"
+            android:text="2" />
+        <Button 
+            android:id="@+id/numberpad_3"
+            style="@style/CustomButton"
+            android:text="3" />
+    </TableRow>
+    
+    <TableRow >
+        <Button 
+            android:id="@+id/numberpad_4"
+            style="@style/CustomButton"
+            android:text="4" />
+        <Button 
+            android:id="@+id/numberpad_5"
+            style="@style/CustomButton"
+            android:text="5" />
+        <Button 
+            android:id="@+id/numberpad_6"
+            style="@style/CustomButton"
+            android:text="6" />
+    </TableRow>
+    
+    <TableRow >
+        <Button 
+            android:id="@+id/numberpad_7"
+            style="@style/CustomButton"
+            android:text="7" />
+        <Button 
+            android:id="@+id/numberpad_8"
+            style="@style/CustomButton"
+            android:text="8" />
+        <Button 
+            android:id="@+id/numberpad_9"
+            style="@style/CustomButton"
+            android:text="9" />
+    </TableRow>
+    
+    <TableRow >
+        <Button 
+            android:id="@+id/numberpad_clear"
+            style="@style/CustomButton"
+            android:text="Clear" />
+        <Button 
+            android:id="@+id/numberpad_mark"
+            style="@style/CustomButton"
+            android:text="Mark" />
+        <Button 
+            android:id="@+id/numberpad_cancel"
+            style="@style/CustomButton"
+            android:text="Cancel" />
+    </TableRow>
+
+</TableLayout>

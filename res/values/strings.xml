@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Sudoku</string>
+    
+    <string name="main_title">Sudoku</string>
+    
+    <string name="new_game_label">New Game</string>
+    <string name="continue_game_label">Continue</string>
+    <string name="create_game_label">Create Puzzle</string>
+    <string name="savedpuzzle_label">Start from Saved Puzzle</string>
+    <string name="about_label">About</string>
+    <string name="exit_label">Exit</string>
+    
+    <string name="new_game_title">Difficulty</string>
+    <string name="easy_label">Easy</string>
+    <string name="medium_label">Medium</string>
+    <string name="hard_label">Hard</string>
+    <string name="evil_label">Evil</string>
+    
+    <string name="game_title">Game</string>
+    <string name="no_moves_label">No number available</string>
+    <string name="numberpad_title">Number Pad</string>
+    
+        
+    <string name="solve">Solve</string>
+    <string name="save">Save</string>
+    <string name="save_new_puzzle">Save Puzzle</string>
+    
+    <string name="about_title">About Sudoku</string>
+    <string name="about_text">
+        <i>Sudoku</i> is a logic-based, combinatorial number-placement puzzle.
+        The objective is to fill a 9×9 grid with digits so that each column, 
+        each row, and each of the nine 3×3 sub-grids that compose the grid 
+        contains all of the digits from 1 to 9. The puzzle setter provides a 
+        partially completed grid, which typically has a unique solution.
+    </string>
+
+
+</resources>
